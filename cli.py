@@ -1,7 +1,7 @@
 import socket
 import threading
 
-SERVER_IP = "192.168.56.1"
+SERVER_IP = "YOUR SERVER IP"
 PORT = 5051
 HEADER = 64
 DISCONNECT_MESSAGE = "!DISCONNECT"
